@@ -6,6 +6,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardonunes-la&layout=compact&theme=transparent" />
   </a>
 </div>
-
-![Snake animation] (https://github.com/ricardonunes-la)
-
